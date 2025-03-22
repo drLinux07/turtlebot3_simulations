@@ -46,7 +46,7 @@ def generate_launch_description():
         description='Specify namespace of the robot')
 
     start_gazebo_ros_spawner_cmd = Node(
-        package='gazebo_ros',
+        package='ros_gz_sim',
         executable='spawn_entity.py',
         arguments=[
             '-entity', TURTLEBOT3_MODEL,

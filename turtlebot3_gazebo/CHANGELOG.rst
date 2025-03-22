@@ -79,7 +79,7 @@ Changelog for package turtlebot3_gazebo
 1.3.0 (2020-06-29)
 ------------------
 * Turtlebot3 Autorace 2020 implemented
-* Remove the plugin_path from gazebo_ros export
+* Remove the plugin_path from ros_gz_sim export
 * Remove *nix path separator
 * Contributors: Ashe Kim, Ben Wolsieffer, Sean Yen
 
