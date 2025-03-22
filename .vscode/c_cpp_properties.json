@@ -1,0 +1,42 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/drneutrino07/ros2_ws/install/turtlebot3_gazebo/include/**",
+        "/home/drneutrino07/ros2_ws/install/turtlebot3_fake_node/include/**",
+        "/home/drneutrino07/ros2_ws/install/px4_ros_com/include/**",
+        "/home/drneutrino07/ros2_ws/install/px4_ros2_cpp/include/**",
+        "/home/drneutrino07/ros2_ws/install/px4_msgs/include/**",
+        "/home/drneutrino07/ros2_ws/install/image_geometry/include/**",
+        "/home/drneutrino07/ros2_ws/install/cv_bridge/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/drneutrino07/ros2_ws/src/px4-ros2-interface-lib/examples/cpp/modes/executor_with_multiple_modes/include/**",
+        "/home/drneutrino07/ros2_ws/src/px4-ros2-interface-lib/examples/cpp/modes/fw_attitude/include/**",
+        "/home/drneutrino07/ros2_ws/src/px4-ros2-interface-lib/examples/cpp/modes/goto/include/**",
+        "/home/drneutrino07/ros2_ws/src/px4-ros2-interface-lib/examples/cpp/modes/goto_global/include/**",
+        "/home/drneutrino07/ros2_ws/src/px4-ros2-interface-lib/examples/cpp/modes/manual/include/**",
+        "/home/drneutrino07/ros2_ws/src/px4-ros2-interface-lib/examples/cpp/modes/mode_with_executor/include/**",
+        "/home/drneutrino07/ros2_ws/src/px4-ros2-interface-lib/examples/cpp/modes/rtl_replacement/include/**",
+        "/home/drneutrino07/ros2_ws/src/px4-ros2-interface-lib/examples/cpp/navigation/global_navigation/include/**",
+        "/home/drneutrino07/ros2_ws/src/px4-ros2-interface-lib/examples/cpp/navigation/local_navigation/include/**",
+        "/home/drneutrino07/ros2_ws/src/px4-ros2-interface-lib/px4_ros2_cpp/include/**",
+        "/home/drneutrino07/ros2_ws/src/px4_ros_com/include/**",
+        "/home/drneutrino07/ros2_ws/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/drneutrino07/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/drneutrino07/ros2_ws/src/vision_opencv/cv_bridge/include/**",
+        "/home/drneutrino07/ros2_ws/src/vision_opencv/image_geometry/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
